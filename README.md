@@ -1,2 +1,3 @@
-# testing-git
-We are testing git and GitHub workflow
+# Repository to train on git and GitHub
+
+This repository is a sandbox to practive git basic workflow.
